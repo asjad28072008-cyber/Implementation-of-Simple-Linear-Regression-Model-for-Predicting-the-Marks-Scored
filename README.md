@@ -21,6 +21,7 @@ Developed by: Muhammad Asjad  E
 RegisterNumber:  25013957
 */
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -60,7 +61,7 @@ rmse = np.sqrt(mse)
 print("Mean Absolute Error:", mae)
 print("Mean Squared Error:", mse)
 print("Root Mean Squared Error:", rmse)
-
+```
 
 ## Output:
 To Read Head and Tail Files
