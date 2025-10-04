@@ -65,8 +65,9 @@ print("Root Mean Squared Error:", rmse)
 
 ## Output:
 To Read Head and Tail Files
+<h3>Hours                       Scores<h3>
 
-Hours                       Scores
+
 <img width="521" height="222" alt="Screenshot 2025-10-04 204230" src="https://github.com/user-attachments/assets/59726817-3443-43ff-8ab1-8ed92ae47227" />
 
 
