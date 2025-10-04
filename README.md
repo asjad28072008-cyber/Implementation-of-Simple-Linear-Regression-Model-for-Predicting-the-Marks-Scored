@@ -65,13 +65,13 @@ print("Root Mean Squared Error:", rmse)
 
 ## Output:
 To Read Head and Tail Files
-<h3>Hours                       Scores<h3>
+<h3>Hours</h3>    <h3 style="padding-left:23px;">Scores</h3>
 
 
 <img width="521" height="222" alt="Screenshot 2025-10-04 204230" src="https://github.com/user-attachments/assets/59726817-3443-43ff-8ab1-8ed92ae47227" />
 
 
-Hours                      Scores
+<h3>Hours</h3>    <h3 style="padding-left:23px;">Scores</h3>
 <img width="543" height="216" alt="Screenshot 2025-10-04 204259" src="https://github.com/user-attachments/assets/cd465ca3-b903-43ab-b712-b3a1bba6cea3" />
 
 Compare Dataset
